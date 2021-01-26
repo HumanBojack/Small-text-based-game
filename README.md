@@ -1,0 +1,1 @@
+It's basically a small text game where you'll fight ennemies "pokemon style". Launch app3 for the best experience.
